@@ -13,10 +13,13 @@
       sunt. Ratione eligendi incidunt repudiandae exercitationem sit quaerat,
       soluta molestias eos illo.
     </p>
+    <div>{{ data }}</div>
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+const { data } = await useFetch("/api/ninja");
+</script>
 
 <style scoped>
 h2 {
