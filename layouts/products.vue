@@ -2,7 +2,7 @@
   <div>
     <header class="shadow-sm bg-white">
       <nav class="container mx-auto p-4">
-        <NuxtLink to="/" class="font-bold">Nuxt Dojo Merch</NuxtLink>
+        <NuxtLink to="/" class="font-bold">Nuxt Store Merch</NuxtLink>
       </nav>
     </header>
 

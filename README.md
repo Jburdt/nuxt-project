@@ -1,5 +1,18 @@
 # Nuxt 3 Minimal Starter
 
+## This project was something I built to learn the basics of NUXT. I chose NUXT because it is being used on some freelance work I have been offered to do. 
+
+### What I learned in this project.
+- Creating a Nuxt app
+- Adding pages
+- Route Parameters
+- NuxtLink
+- Layouts
+- Data fetching
+- Metadata and useHead
+- Dynamic server routes
+- Deploying to Netlify
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup

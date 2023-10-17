@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss'], 
   app: {
     head: {
-      title: "Nuxt Dojo",
+      title: "Nuxt Store",
       meta: [
         { name: "description", content: "Everything about Nuxt 3"}
       ],
